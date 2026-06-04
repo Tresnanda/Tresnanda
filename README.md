@@ -7,8 +7,8 @@
 I build focused tools that make engineering workflows easier to understand, automate, and maintain. My work centers on command-line interfaces, agent-assisted development, environment safety, and applied AI utilities.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tresnanda-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tresnanda)
-[![X](https://img.shields.io/badge/X-@kratosfess-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kratosfess)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Pages-0ea5e9?style=for-the-badge&logo=github-pages&logoColor=white)](https://tresnanda.github.io)
+[![X](https://img.shields.io/badge/X-@treshpandaa-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/treshpandaa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0ea5e9?style=for-the-badge&logo=github-pages&logoColor=white)](https://tresnanda.tech)
 
 </div>
 
@@ -51,8 +51,6 @@ I build focused tools that make engineering workflows easier to understand, auto
 ### Additional work
 
 - [`screenshot-to-json`](https://github.com/Tresnanda/screenshot-to-json): Extract structured JSON from screenshots and image files using AI vision.
-- [`treshnanda-portfolio`](https://github.com/Tresnanda/treshnanda-portfolio): Personal portfolio and web interface experiments.
-- [`crofai-opencode-integration`](https://github.com/Tresnanda/crofai-opencode-integration): Shell tooling for AI coding workflows.
 
 ---
 
