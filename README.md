@@ -1,89 +1,51 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
+  <img src="assets/hero-light.png" alt="Treshnanda. I build AI that does the work, and the apps it lives in." width="100%">
+</picture>
 
-# Treshnanda
+I’m Nanda, AI Systems Engineer at Kembar Digital. I design agents and automations that take repetitive work off people’s plates, then ship them as web, mobile and desktop apps. I co-founded [StudioTrace](https://studiotrace.cc), run [MAN|MADE](https://manmade.fit), my own apparel label, and help host builder events with [SpaceXAI Bali](https://luma.com/spacexai-bali).
 
-### Developer tooling, AI automation, and practical security utilities
+<a href="mailto:treshnanda@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-start-dark.png"><img src="assets/btn-start-light.png" alt="Start a project" height="48"></picture></a>&nbsp;<a href="https://treshnanda.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-site-dark.png"><img src="assets/btn-site-light.png" alt="treshnanda.tech" height="48"></picture></a>
 
-I build focused tools that make engineering workflows easier to understand, automate, and maintain. My work centers on command-line interfaces, agent-assisted development, environment safety, and applied AI utilities.
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tresnanda-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tresnanda)
-[![X](https://img.shields.io/badge/X-@treshpandaa-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/treshpandaa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0ea5e9?style=for-the-badge&logo=github-pages&logoColor=white)](https://tresnanda.tech)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.png">
+  <img src="assets/h-work-light.png" alt="Selected work. Products, client sites and my own label." width="100%">
+</picture>
 
-</div>
+<a href="https://kybern.treshnanda.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kybern-dark.png"><img src="assets/card-kybern-light.png" alt="Kybern: every coding agent in one native harness, on your desk and in your pocket." width="100%"></picture></a>
+<a href="https://everlace.cc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-everlace-dark.png"><img src="assets/card-everlace-light.png" alt="Everlace: wedding invitation SaaS" width="49%"></picture></a>
+<a href="https://manmade.fit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-manmade-dark.png"><img src="assets/card-manmade-light.png" alt="MAN|MADE: my apparel label" width="49%"></picture></a>
+<a href="https://ridenationid.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ridenation-dark.png"><img src="assets/card-ridenation-light.png" alt="RIDENATION: booking web app" width="49%"></picture></a>
+<a href="https://studiotrace.cc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-studiotrace-dark.png"><img src="assets/card-studiotrace-light.png" alt="Trace website: website for StudioTrace" width="49%"></picture></a>
+<a href="https://github.com/Tresnanda/quickboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-quickboard-dark.png"><img src="assets/card-quickboard-light.png" alt="Quickboard: macOS app" width="49%"></picture></a>
+<a href="https://dotmatter.treshnanda.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dotmatter-dark.png"><img src="assets/card-dotmatter-light.png" alt="dotmatter: WebGL library and playground" width="49%"></picture></a>
 
----
+More on [treshnanda.tech](https://treshnanda.tech), plus open source like [git-standup](https://github.com/Tresnanda/git-standup), [envguard](https://github.com/Tresnanda/envguard) and [gpuix](https://github.com/Tresnanda/gpuix).
 
-## Focus areas
+<br>
 
-- **Developer productivity:** CLI tools, GitHub workflows, local automation, and repeatable engineering processes.
-- **AI-assisted development:** agent workflows, repo maintenance loops, coding assistants, and LLM-powered utilities.
-- **Configuration safety:** environment variable audits, secret hygiene, CI checks, and safer project setup.
-- **Search and data systems:** information retrieval, NLP experiments, structured extraction, and applied Python projects.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.png">
+  <img src="assets/h-stack-light.png" alt="Tools. What I build with." width="100%">
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
+  <img src="assets/stack-light.png" alt="TypeScript, Python, React, Next.js, TanStack, React Native, Expo, Node.js, Vite, Astro, Tailwind CSS, PostgreSQL, pgvector, Supabase, Docker, Azure, Cursor, Claude, n8n, LLM agents, RAG" width="100%">
+</picture>
 
-## Selected projects
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Tresnanda/git-standup">git-standup</a></h3>
-      <p>Generate standup-ready reports from Git history.</p>
-      <ul>
-        <li>Turns commit history into concise daily or weekly updates.</li>
-        <li>Supports structured output for engineering status reports.</li>
-        <li>Built for developers who want clearer context with less manual work.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Tresnanda/envguard">envguard</a></h3>
-      <p>Audit environment variables across local projects and Supabase Edge Functions.</p>
-      <ul>
-        <li>Detects missing, unused, and drifted environment variables.</li>
-        <li>Helps make configuration issues visible before they reach production.</li>
-        <li>Designed for local development, CI, and automated repo maintenance.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-dark.png">
+  <img src="assets/h-contact-light.png" alt="Say hi. Tell me what’s slowing you down." width="100%">
+</picture>
 
-### Additional work
-
-- [`screenshot-to-json`](https://github.com/Tresnanda/screenshot-to-json): Extract structured JSON from screenshots and image files using AI vision.
-
----
-
-## Technical stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AI Tooling](https://img.shields.io/badge/AI_Tooling-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
-![CLI Tools](https://img.shields.io/badge/CLI_Tools-111827?style=for-the-badge&logo=gnometerminal&logoColor=white)
-
-</div>
-
----
-
-## Current interests
-
-- Building small, reliable tools for real developer workflows
-- Improving agent-assisted coding and repo maintenance systems
-- Designing safer defaults for secrets and environment configuration
-- Exploring practical applications of AI vision, search, and structured extraction
-
----
-
-<div align="center">
-
-**Open to collaboration on developer tools, automation systems, and practical AI workflows.**
-
-</div>
-
-<!-- profile-readme-refresh: 2026-06-04T02:16:00Z -->
+<a href="https://github.com/Tresnanda"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-github-dark.png"><img src="assets/s-github-light.png" alt="GitHub" height="40"></picture></a>
+<a href="https://linkedin.com/in/treshnanda"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-linkedin-dark.png"><img src="assets/s-linkedin-light.png" alt="LinkedIn" height="40"></picture></a>
+<a href="https://x.com/treshpandaa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-x-dark.png"><img src="assets/s-x-light.png" alt="X" height="40"></picture></a>
+<a href="https://instagram.com/treshnanda"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-instagram-dark.png"><img src="assets/s-instagram-light.png" alt="Instagram" height="40"></picture></a>
+<a href="https://wa.me/6287852986638"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-whatsapp-dark.png"><img src="assets/s-whatsapp-light.png" alt="WhatsApp" height="40"></picture></a>
+<a href="https://luma.com/user/usr-SYE86qqUlJUJvFy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-luma-dark.png"><img src="assets/s-luma-light.png" alt="Luma" height="40"></picture></a>
